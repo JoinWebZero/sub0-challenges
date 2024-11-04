@@ -30,7 +30,7 @@ Step into the world of writing smart contracts on Polkadot with ink!. Make sure 
 ### 🎓 OpenGuild challenges
 
 1. [Using subxt and light client to collect and process data](https://github.com/openguild-labs/sub0-bangkok-challenges/tree/main/challenge-1)
-2. [Challenge 2: Set an on-chain identity from the client with Dedot](https://github.com/openguild-labs/sub0-bangkok-challenges/tree/main/challenge-2)
+2. [Set an on-chain identity from the client with Dedot](https://github.com/openguild-labs/sub0-bangkok-challenges/tree/main/challenge-2)
 3. [Building a parachain from a solochain](https://github.com/openguild-labs/sub0-bangkok-challenges/tree/main/challenge-3)
 
 ### 🗓️ Workshop participation challenges
