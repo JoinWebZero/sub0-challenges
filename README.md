@@ -2,6 +2,9 @@
 
 A central hub for all the challenges to hack on during sub0 RESET (Nov. 9-11).
 
+
+## 👉 Challenge submission form: https://voedlx91m5k.typeform.com/to/reN3rKZo 👈
+
 ## Challenge list
 
 ### 🏗️ EVM to Substrate challenges
