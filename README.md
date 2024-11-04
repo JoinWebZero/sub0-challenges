@@ -26,18 +26,18 @@ Step into the world of writing smart contracts on Polkadot with ink!. Make sure 
 
 ### 🎓 OpenGuild challenges
 
-1. Rust challenge (beginner)
-2. Rust and Substrate data formatting challenge (intermediate)
+1. [Using subxt and light client to collect and process data](https://github.com/openguild-labs/sub0-bangkok-challenges/tree/main/challenge-1)
+2. [Challenge 2: Set an on-chain identity from the client with Dedot](https://github.com/openguild-labs/sub0-bangkok-challenges/tree/main/challenge-2)
+3. [Building a parachain from a solochain](https://github.com/openguild-labs/sub0-bangkok-challenges/tree/main/challenge-3)
 
 ### 🗓️ Workshop participation challenges
 
 Attend any of these workshops, participate and submit your proof via the challenge submission form to make it count towards the amount of challenges you completed.
 
 1. Building light client dApps with Substrate Connect
-2.  ​Using multi-chain indexers in your dApps
-3. ​Build your first DePIN dapp
-4. Building on Polkadot
-5. Launching your appchain to production
+2. ​Using multi-chain indexers in your dApps
+3. Interact with true DEPIN Robonomics platform
+4. Launching your appchain to production
 
 ## 💰 Cash prizes 
 
