@@ -1,9 +1,14 @@
+<div align="center">
+
 # sub0-challenges
 
 A central hub for all the challenges to hack on during sub0 RESET (Nov. 9-11).
 
+## 👉 Challenge submission form: [https://voedlx91m5k.typeform.com/to/reN3rKZo](https://voedlx91m5k.typeform.com/to/reN3rKZo) 👈
 
-## 👉 Challenge submission form: https://voedlx91m5k.typeform.com/to/reN3rKZo 👈
+![69c2d025-0c48-45c1-8339-2312cd35e7d2](https://github.com/user-attachments/assets/00b2ff58-8d09-44b3-9f7a-e40804090abe)
+
+</div>
 
 ## Challenge list
 
@@ -17,7 +22,7 @@ These are beginner friendly and a great place to start learning Substrate for th
 
 ### 🦑 ink! challenges
 
-Step into the world of writing smart contracts on Polkadot with ink!. Make sure to attend the workshops to get you up to speed on what to do to complete these challenges.
+Step into the world of writing smart contracts on Polkadot with ink!. **Make sure to attend the workshops to get you up to speed on what to do to complete these challenges.**
 
 1. Intro to ink!: start and deploy your DAO contract (beginner)
 2. Implement voter registration, proposal management, and voting in your DAO (intermediate)
