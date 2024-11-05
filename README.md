@@ -16,20 +16,20 @@ A central hub for all the challenges to hack on during sub0 RESET (Nov. 9-11).
 
 These are beginner friendly and a great place to start learning Substrate for those more familiar with EVM.
 
-1. Multicall challenge: https://github.com/vikiival/sub0-reset/tree/main/multicall
-2. ERC721 challenge: https://github.com/vikiival/sub0-reset/tree/main/erc721
-3. Standards challenge: https://github.com/vikiival/sub0-reset/tree/main/standards
+1. [Multicall challenge](https://github.com/vikiival/sub0-reset/tree/main/multicall)
+2. [ERC721 challenge](https://github.com/vikiival/sub0-reset/tree/main/erc721)
+3. [Standards challenge](https://github.com/vikiival/sub0-reset/tree/main/standards)
 
 ### 🦑 ink! challenges
 
 Step into the world of writing smart contracts on Polkadot with ink!. **Make sure to attend the workshops to get you up to speed on what to do to complete these challenges.**
 
-1. Intro to ink!: start and deploy your DAO contract (beginner)
-2. Implement voter registration, proposal management, and voting in your DAO (intermediate)
-3. Connect your DAO to the Super DAO with registration and voting (intermediate)
-4. Support creating cross-chain proposals to the Super DAO (advanced)
-5. Build a UI for your DAO (intermediate)
-6. Ideate and design a multichain, permissionless solution for Polkadot (beginner)
+1. [Intro to ink!: start and deploy your DAO contract](https://github.com/r0gue-io/sub0-ink-challenges/tree/main/challenges/challenge-1) (beginner)
+2. [Implement voter registration, proposal management, and voting in your DAO](https://github.com/r0gue-io/sub0-ink-challenges/tree/main/challenges/challenge-2) (intermediate)
+3. [Connect your DAO to the Super DAO with registration and voting](https://github.com/r0gue-io/sub0-ink-challenges/tree/main/challenges/challenge-3) (intermediate)
+4. [Support creating cross-chain proposals to the Super DAO](https://github.com/r0gue-io/sub0-ink-challenges/tree/main/challenges/challenge-4) (advanced)
+5. [Build a UI for your DAO](https://github.com/r0gue-io/sub0-ink-challenges/tree/main/challenges/challenge-5) (intermediate)
+6. [Ideate and design a multichain, permissionless solution for Polkadot](https://github.com/r0gue-io/sub0-ink-challenges/tree/main/challenges/challenge-6) (beginner)
 7. Use the Pop API to create a fungibles token for token-backed voting (intermediate)
 
 ### 🎓 OpenGuild challenges
@@ -42,10 +42,9 @@ Step into the world of writing smart contracts on Polkadot with ink!. **Make sur
 
 Attend any of these workshops, participate and submit your proof via the challenge submission form to make it count towards the amount of challenges you completed.
 
-1. Building light client dApps with Substrate Connect
-2. ​Using multi-chain indexers in your dApps
-3. Interact with true DEPIN Robonomics platform
-4. Launching your appchain to production
+1. ​Using multi-chain indexers in your dApps
+2. Interact with true DEPIN Robonomics platform
+3. Launching your appchain to production
 
 ## 💰 Cash prizes 
 
