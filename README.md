@@ -2,13 +2,42 @@
 
 # sub0-challenges
 
-A central hub for all the challenges to hack on during sub0 RESET (Nov. 9-11).
+Ready to take on some challenges to level up your skills? The sub0 hackerspace challenges are designed to get you up to speed with building with Substrate and ink!, whether you’re a complete beginner or already have some chops to show for.
 
 ## 👉 Challenge submission form: [https://voedlx91m5k.typeform.com/to/reN3rKZo](https://voedlx91m5k.typeform.com/to/reN3rKZo) 👈
 
 ![69c2d025-0c48-45c1-8339-2312cd35e7d2](https://github.com/user-attachments/assets/00b2ff58-8d09-44b3-9f7a-e40804090abe)
 
 </div>
+
+## How It Works
+
+- Complete a challenge and submit it to the challenge submission form
+- Your first completed challenges earns you an exclusive sub0 merch pack you can claim at the Webzero Devrel booth 🎁
+- More challenges completed = more chances to win the top prizes
+
+_Psst: Any workshop activity counts towards a challenge!_
+
+## 📌 Rules
+
+- ⏰ Daily submission closes at 7 PM
+- Submit using the same email address
+- Your code, your work
+
+## 🎁 Prize Distribution
+
+**We will be giving out 1 [Flipper Zero](https://flipperzero.one/) and 1 [Gameboy](https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Game-Boy-Color/Game-Boy-Color-627137.html) on the first day and 2 of each on the subsequent days.**
+
+### 🏆 Prizes for the Top Daily Hackers
+- 🥇 First place – Hacker who completed the most challenges in a day wins a Flipper Zero
+- 🥈 Second place – Hacker who completed the second most number of challenges wins a Gameboy
+
+### 💪 Cumulative Leaderboard
+Didn't win anything today? You still have a chance to win a prize by continuing your streak into the next day!
+
+- 🥇 First place - Hacker who completed the most challenges over 2 days wins a Flipper Zero
+- 🥈 Second place - Hacker who completed the most challenges over 2 days wins a Gameboy
+
 
 ## Challenge list
 
