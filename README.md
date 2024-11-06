@@ -38,6 +38,7 @@ Didn't win anything today? You still have a chance to win a prize by continuing 
 - 🥇 First place - Hacker who completed the most challenges over 2 days wins a Flipper Zero
 - 🥈 Second place - Hacker who completed the most challenges over 2 days wins a Gameboy
 
+> **Note:** the Open Guild team is awarding an extra 40 USDT for completing their challenges. Complete the ink! challenges and you'll be geared up to submit your own dapp to the ink! track and win an additional 150 USDC. 
 
 ## Challenge list
 
