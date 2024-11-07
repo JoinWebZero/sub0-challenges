@@ -60,7 +60,7 @@ Step into the world of writing smart contracts on Polkadot with ink!. **Make sur
 4. [Support creating cross-chain proposals to the Super DAO](https://github.com/r0gue-io/sub0-ink-challenges/tree/main/challenges/challenge-4) (advanced)
 5. [Build a UI for your DAO](https://github.com/r0gue-io/sub0-ink-challenges/tree/main/challenges/challenge-5) (intermediate)
 6. [Ideate and design a multichain, permissionless solution for Polkadot](https://github.com/r0gue-io/sub0-ink-challenges/tree/main/challenges/challenge-6) (beginner)
-7. Use the Pop API to create a fungibles token for token-backed voting (intermediate)
+7. [Use the Pop API to create a fungibles token for token-backed voting (intermediate)](https://github.com/r0gue-io/sub0-ink-challenges/blob/main/challenges/challenge-7)
 
 ### 🎓 OpenGuild challenges
 
