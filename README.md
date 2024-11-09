@@ -75,7 +75,7 @@ Attend any of these workshops, participate and submit your proof via the challen
 
 1. ​Using multi-chain indexers in your dApps
 2. Interact with true DEPIN Robonomics platform
-3. Launching your appchain to production
+3. [Launching your appchain to production](https://web3educhain.xyz/sub0-reset-2024/)
 
 ## 💰 Cash prizes 
 
