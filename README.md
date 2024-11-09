@@ -49,6 +49,7 @@ These are beginner friendly and a great place to start learning Substrate for th
 1. [Multicall challenge](https://github.com/vikiival/sub0-reset/tree/main/multicall)
 2. [ERC721 challenge](https://github.com/vikiival/sub0-reset/tree/main/erc721)
 3. [Standards challenge](https://github.com/vikiival/sub0-reset/tree/main/standards)
+4. [Proxies challenge](https://github.com/vikiival/sub0-reset/tree/main/proxies)
 
 ### 🦑 ink! challenges
 
